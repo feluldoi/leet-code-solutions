@@ -1,0 +1,14 @@
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\leet-code-solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\leet-code-solutions.AssemblyInfoInputs.cache
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\leet-code-solutions.AssemblyInfo.cs
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\leet-code-solutions.csproj.CoreCompileInputs.cache
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\bin\Debug\net9.0\leet-code-solutions.exe
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\bin\Debug\net9.0\leet-code-solutions.deps.json
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\bin\Debug\net9.0\leet-code-solutions.runtimeconfig.json
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\bin\Debug\net9.0\leet-code-solutions.dll
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\bin\Debug\net9.0\leet-code-solutions.pdb
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\leet-code-solutions.dll
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\refint\leet-code-solutions.dll
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\leet-code-solutions.pdb
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\leet-code-solutions.genruntimeconfig.cache
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\ref\leet-code-solutions.dll
