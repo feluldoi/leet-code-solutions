@@ -12,3 +12,4 @@ C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\refint\l
 C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\leet-code-solutions.pdb
 C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\leet-code-solutions.genruntimeconfig.cache
 C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\ref\leet-code-solutions.dll
+C:\Users\roughsmsi\Documents\Repos\leet-code-solutions\obj\Debug\net9.0\leet-code-solutions.sourcelink.json
